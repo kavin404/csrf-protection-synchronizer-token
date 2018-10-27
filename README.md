@@ -13,4 +13,4 @@ You will need
 To run the demo.
   
 
-To learn more about CSRF and Synchronizer Token pattern refere to 
+To learn more about CSRF and Synchronizer Token pattern refer to https://kavintechblog.blogspot.com/2018/10/how-to-protect-from-csrf.html
