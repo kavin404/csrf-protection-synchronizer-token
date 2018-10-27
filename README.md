@@ -1,5 +1,5 @@
-# csrf-protection-synchronizer-token
-
+# csrf protection using Synchronizer Token Pattern
+ 
 Demonstration of how we can stop Cross Site Request Forgery(CSRF) using synchronizer token pattern is given in this repo. 
 
 You will need 
